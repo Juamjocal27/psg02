@@ -42,5 +42,5 @@ Enlaces
 ***
 
 Imagenes
-![Kiyotaka](./img/kiyotaka.jpg)
+![Kiyotaka](./img/Kiyotaka.jpg)
 
